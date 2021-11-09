@@ -3,7 +3,7 @@
   "name": "Contentful",
   "version": "11-2019",
   "license": "Proprietary",
-  "inception": "07-2010",
+  "inception": "07-2022",
   "category": "Essential/Professional",
   "systemRequirements": {
     "name": "System Requirements",
@@ -30,7 +30,7 @@
     },
     "cloudService": {
       "name": "Cloud Service",
-      "value": "Yes"
+      "value": "No"
     },
     "onPremisesInstallation": {
       "name": "On Premises Installation",
